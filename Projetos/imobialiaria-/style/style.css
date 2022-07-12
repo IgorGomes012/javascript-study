@@ -1,0 +1,137 @@
+html,body{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: Tahoma;
+}
+
+.global{
+    padding: 30px 0;
+    text-align: center;
+}
+
+.pglobal{
+    text-align: justify;
+}
+
+.global p{
+    margin:10px auto;
+    width: 980px;
+}
+
+
+#header{
+    background-color: #afddfb;
+}
+
+#header > img{
+    width: 150px;
+}
+
+#header > p > a{
+text-align: center;
+text-decoration: none;
+font-size: 18px;
+color: #1d1d1d;
+margin: 0 10px;
+}
+
+#banner{
+    margin-top: 50px;
+    padding-top: 0;
+}
+
+span{
+    font-weight: bold;
+    text-decoration: none;
+    color: #3eb2ff;;
+}
+
+#imovel_dos_sonhos h1{
+    color:#1d1d1d;
+    margin-bottom: 5px;
+}
+
+#imovel_dos_sonhos img,.imgcorretores{
+    width: 450px;
+}
+
+h2{
+    color:#1c81c0;
+}
+
+#servicos,#contato{
+    background-color: #1c80c1;
+}
+
+#servicos h2,#contato h2{
+    color:#ffffff;
+    font-size: 28px;
+    line-height: 42px;   
+}
+
+#servicos p{
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+
+.list{
+margin: 40px auto;
+width: 135px;
+}
+
+.iten{
+line-height: 42px;
+color: #ffffff;
+text-align: left;
+font-size: 22px;
+}
+
+.yellow{
+    color:rgba(250, 250, 81, 0.788)  
+}
+
+#corretores h2{
+    font-size: 28px;
+    line-height: 42px;   
+}
+
+#corretores p{
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+#contato p{
+color:#ffffff;
+background-color: #1d1d1d;
+padding: 15px;
+margin-top: 15px;
+}
+
+.listrodape{
+    margin:40px auto;
+    width: 210px;
+    list-style-type: none;
+}
+
+.itenrodape{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.linkstyle{
+    background-color: #ffffff;
+    color: #1c80c1;
+    padding-top: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+}

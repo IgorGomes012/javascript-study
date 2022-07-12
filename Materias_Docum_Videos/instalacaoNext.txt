@@ -1,0 +1,5 @@
+no terminal colocar para instalar a biblioteca:
+
+npx create-next-app@latest
+
+npm run dev - comando para rodar servidor
