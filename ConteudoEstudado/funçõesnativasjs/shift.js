@@ -3,4 +3,5 @@ const diasDaSemana = [
     "quarta-feira", "quinta-feira", "sexta-feira", "sábado"
 ];
 
-diasDaSemana.pop();
+diasDaSemana.shift();
+//remove o ultimo elemento da array
